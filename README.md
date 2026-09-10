@@ -6,7 +6,7 @@
   I am passionate about technology, automation, and solving real-world problems. Here you will find my projects, inventory management tools, and my experiments with Java, C and more.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tiago-wolowski-41a97a435/" target="_blank">
+  <a href="https://www.linkedin.com/in/tiago-wolowski/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007EC6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:twolowski@inf.ufpel.edu.br">
