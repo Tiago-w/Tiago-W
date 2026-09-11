@@ -2,7 +2,10 @@
 
 <h4 align="center">Computer Science Student • Software Developer • Problem Solver</h4>
 
-<img align="center" width="480" height="270" alt="gif" src="https://github.com/user-attachments/assets/ef8d3ea9-dd63-4f20-9db5-70adb7101493" />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ef8d3ea9-dd63-4f20-9db5-70adb7101493" width="300px" alt="commit gif looping" />
+</p>
 
 <p align="center">
   I am passionate about technology, automation, and solving real-world problems. Here you will find my projects, inventory management tools, and my experiments with Java, C and more.
