@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ef8d3ea9-dd63-4f20-9db5-70adb7101493" width="300px" alt="commit gif looping" />
+  <img width="480" height="270" alt="gif" src="https://github.com/user-attachments/assets/ef8d3ea9-dd63-4f20-9db5-70adb7101493" />
 </p>
 
 <p align="center">
