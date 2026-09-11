@@ -2,7 +2,7 @@
 
 <h4 align="center">Computer Science Student • Software Developer • Problem Solver</h4>
 
-<img width="160" height="90" alt="Adobe Express - 13820340_1280_720_30fps" src="https://github.com/user-attachments/assets/4af86f34-709b-4a28-a97f-cb6058b91830" />
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/d55630ba-08ea-4ac4-8c25-da26a5847e2c" />
 
 <p align="center">
   I am passionate about technology, automation, and solving real-world problems. Here you will find my projects, inventory management tools, and my experiments with Java, C and more.
