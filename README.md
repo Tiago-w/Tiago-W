@@ -3,6 +3,9 @@
 <h4 align="center">Computer Science Student • Software Developer • Problem Solver</h4>
 
 <p align="center">
+  <video src="https://github.com/user-attachments/assets/c33c10d5-5d9e-4738-84a6-fc8c5133f6b6" width="100%" autoplay loop muted controls></video>
+</p>
+<p align="center">
   I am passionate about technology, automation, and solving real-world problems. Here you will find my projects, inventory management tools, and my experiments with Java, C and more.
 
 <p align="center">
